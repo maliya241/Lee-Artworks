@@ -44,8 +44,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (array_key_exists($pictures, $_FILES)) {
       require ("inc/phpmailer/PHPMailerAutoload.php");
       
-      $mail->setFrom('maliya241@gmail.com', 'Lee Artworks Order Form');
-      $mail->addAddress('maliya241@gmail.com', 'Lee Artworks');     // Add a recipient
+      $mail->setFrom('Lee.artworks2015@gmail.com', 'Lee Artworks Order Form');
+      $mail->addAddress('Lee.artworks2015@gmail.com', 'Lee Artworks');     // Add a recipient
       $mail->AddReplyTo($email, $name);
       $mail->isHTML(false);                                  // Set email format to HTML
   
