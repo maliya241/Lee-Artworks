@@ -12,8 +12,8 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <link rel="icon" href="img/favicon.icon" type="image/x-icon">
-      <meta name="description" content="Lee Artworks ." />
-      <meta name="keywords" content="Lee Artwork, art, custom, logo design, shoes, pillows, design" />
+      <meta name="description" content="Lee Artworks is a business that creates custom artwork. The main artwork projects are logo, pillow, and t-shirt designs. Other art projects are also invited." />
+      <meta name="keywords" content="Lee Artwork, Harper Lee, Harper, Lee, art, artwork, custom, logo, shoes, pillows, design, drawing, painting, digital" />
       <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
       <link rel="icon" type="image/png" href="favicon/favicon-32x32.png" sizes="32x32">
       <link rel="icon" type="image/png" href="favicon/favicon-16x16.png" sizes="16x16">
