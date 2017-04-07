@@ -1,0 +1,176 @@
+@media screen and (min-width: 305px) {
+  #navbarResponsive ul {
+    left: 5%;
+  }
+}
+
+@media screen and (min-width: 380px) {
+  #navbarResponsive ul {
+    left: 25%;
+  }
+}
+
+@media screen and (max-width:325px) {  
+  footer .primary {
+    clear: both;
+  }
+  
+  #social {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1.5em;
+  }
+}
+
+@media screen and (max-width: 392px) {
+  .gallery .square {
+    float: left;
+    width: 90%;
+    padding-bottom: 90%;
+    margin: 2.5% auto;
+    clear: both;
+  }
+}
+
+@media screen and (min-width: 450px) {
+  .footer, .footer img {
+    float: left;
+  }
+}    
+
+@media screen and (min-width: 768px) {
+  
+  .nav-sprite {
+    position: relative;
+    left: 55%;
+    width: 25%;
+  }
+}
+
+@media screen and (min-width: 771px) {  
+  .hide-mobile {
+    display: none;
+  }
+  
+  .artist-bio {
+    float: left;
+    width: 65%;
+  }
+  
+  .artist-wide {
+    float: right;
+    width: 33%;
+  }
+  
+  .gallery .square {
+    width: 21.68%;
+    padding-bottom : 21.68%;
+  }
+  
+  .navimg, .navimg img {
+    float: left;
+    max-height: 130px;
+  }
+  
+  .navimg img {
+    width: auto;
+  }
+
+  .navimg {
+    width: 100%;
+  }
+  
+  .primary {
+    float: left;
+    width: 49%;
+    max-height: 173px;
+  }
+  
+  .secondary {
+    float: right;
+    width: 50%;
+    max-height: 173px;
+    width: auto;
+    padding: 10px 0;
+  }
+  
+  .secondary img {
+    max-height: 173px;
+    width: auto;
+    padding: 35px 0;
+    margin-top: -0.625rem;
+    margin-right: 1.25rem;
+  }
+  
+  #navleelogo {
+    height: 65px;
+  }
+  
+  .nav-sprite li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top:-1.5em;
+    background-image: url('../img/navsprite.png');
+    margin-top: 2em;
+  }
+  
+  .nav-sprite li, .nav-sprite a{
+    height: 48.75px;
+    display: block;
+  }
+  
+  .artist {
+    left: 0px;
+    width: 96px;
+    background-position: 0 0;
+  }
+  
+  .artwork {
+    left: 94.125px;
+    width: 114.75px;
+    background-position: -95.25px 0;
+  }
+  
+  .order {
+    left: 208.125px;
+    width: 129.375px;
+    background-position: -210px 0;
+  }
+  
+  .artist:hover {
+    background-position: 0 -48.75px;
+  }
+  
+  .artwork:hover {
+    background-position: -95.25px -48.75px;
+  }
+  
+  .order:hover {
+    background-position: -210px -48.75px;
+  }
+  
+}
+
+@media screen and (max-width: 785px) {
+  .index-gallery .square {
+    width: 90%;
+    padding-bottom: 90%;
+  }
+
+}
+
+@media screen and (min-width: 900px) {
+  .nav-sprite {
+    left: 55%;
+  }
+}
+
+@media screen and (min-width: 1064px) {
+  .nav-sprite {
+    left: 65%;
+  }
+}
+  
