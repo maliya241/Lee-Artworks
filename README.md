@@ -2,5 +2,3 @@ Lee Artworks is an art business started by Harper Lee (not the author). She can 
 
 For this project, I integrated PHP, jQuery, and JavaScript as I learned them. With PHP, I was able to create boxes that would display randomly selected pictures of Harper’s artwork. With the help of PHP Mailer, I was also able to put a user’s form inputs into an email that would be sent to a Lee Artworks’ email. I used jQuery to change the links in the last image in a row. The form required jQuery and JavaScript. 
 
-Since my website is PHP based, GitHub Pages will not show the website. I used another website to build the Lee Artworks website, and it allows others to view it. 
-http://php-mailer-test-maliya241385563.codeanyapp.com/
